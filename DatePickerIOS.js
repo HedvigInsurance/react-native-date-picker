@@ -174,6 +174,6 @@ export default class DatePickerIOS extends React.Component<Props> {
 const styles = StyleSheet.create({
   datePickerIOS: {
     height: 216,
-    width: 310,
+    width: '100%',
   },
 });

@@ -45,7 +45,7 @@ class DatePickerAndroid extends React.Component {
 
 const styles = StyleSheet.create({
     picker: {
-        width: 310,
+        width: '100%',
         height: 180,
     }
 })
